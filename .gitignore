@@ -1,0 +1,35 @@
+
+bin/*
+build/*
+include/*
+dependencies/*
+lib/*
+man/*
+slice/*
+config/*
+ut_out/*
+ut_test/*
+share/*
+
+# other files
+Merge_Dictionaries
+DM_Server
+.vagrant
+Merge_Topic_Counts
+formatter
+learntopics
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.d

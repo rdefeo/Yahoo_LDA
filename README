@@ -45,3 +45,6 @@ pre-build step.
 * http://www.boost.org/
 
 Please refer to the html or pdf documentation present at docs/html/index.html & docs/latex/refman.pdf respectively for more information.
+
+sudo yum install wget
+sudo yum install ice-c++-devel.x86_64 

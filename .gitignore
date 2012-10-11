@@ -1,6 +1,7 @@
 *.iml
 */.idea/*
 */out/*
+
 bin/*
 build/*
 include/*
@@ -12,6 +13,15 @@ config/*
 ut_out/*
 ut_test/*
 share/*
+
+# java ignores
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
 
 # other files
 Merge_Dictionaries
